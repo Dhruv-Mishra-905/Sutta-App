@@ -1,4 +1,4 @@
-# Sutta-App
+# Sutta-App (Network)
 
 React and Vite signup screen with Supabase email/password authentication.
 
